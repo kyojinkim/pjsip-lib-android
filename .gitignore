@@ -1,0 +1,5 @@
+dist
+dist*
+releases
+.DS_Store
+*.tar.gz
